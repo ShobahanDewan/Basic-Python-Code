@@ -8,6 +8,5 @@ return True
 num = int(input("Enter A Number: "))
 if prime(num):
 print(f"{num} Is A Prime Number.")
-
 else:
 print(f"{num} Is Not A Prime Number.")
